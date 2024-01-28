@@ -4,7 +4,7 @@ A simple application that finds duplicate images.
 ![Screenshot](dup-img-sel-ss.png)
 
 Duplicate Image Selector finds all duplicate images in a directory.</br>
-It is non-destructive and does not delete images but instead moves them to a _duplicates directory inside the current directory.</br>
+It is non-destructive and does not delete images but instead moves them to an _duplicates directory inside the current directory.</br>
 
 Using Duplicate Image Selector</br>
 * Select a folder that has images in it.</br>
